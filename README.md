@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This repository houses the code for my portfolio and includes the "Html5up_Solid_State" directory, which contains the files that inspired the structure of my code found on the <a href="https://html5up.net/">HTML5 UP</a> website.
+This repository houses the code for my portfolio and includes the "Html5up_Solid_State" zip, which contains the files that inspired the structure of my code found on the <a href="https://html5up.net/">HTML5 UP</a> website.
 
 
 Credits:
